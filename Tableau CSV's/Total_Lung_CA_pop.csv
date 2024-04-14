@@ -1,0 +1,376 @@
+Variable,Measure,Country,Year,Deaths,Population,Total Deaths Percent
+Lung Cancer,Number of total deaths,Australia,2012,8138.0,22733465,0.03579744662769182
+Lung Cancer,Number of total deaths,Australia,2013,8215.0,23128129,0.03551951824550961
+Lung Cancer,Number of total deaths,Australia,2014,8252.0,23475686,0.035151262459380314
+Lung Cancer,Number of total deaths,Australia,2015,8470.0,23815995,0.03556433396967038
+Lung Cancer,Number of total deaths,Australia,2016,8411.0,24190907,0.03476926268204826
+Lung Cancer,Number of total deaths,Australia,2017,8265.0,24594202,0.03360548148705943
+Lung Cancer,Number of total deaths,Australia,2018,8589.0,24966643,0.034401901769492996
+Lung Cancer,Number of total deaths,Australia,2019,8825.0,25340217,0.034826063249576746
+Lung Cancer,Number of total deaths,Australia,2020,8457.0,25655289,0.03296396310328058
+Lung Cancer,Number of total deaths,Austria,2012,3673.0,8408121,0.04368395745018417
+Lung Cancer,Number of total deaths,Austria,2013,3712.0,8451860,0.04391932663342744
+Lung Cancer,Number of total deaths,Austria,2014,3908.0,8507786,0.04593439468270594
+Lung Cancer,Number of total deaths,Austria,2015,3889.0,8584926,0.04530033223349857
+Lung Cancer,Number of total deaths,Austria,2016,3949.0,8700471,0.04538834736648165
+Lung Cancer,Number of total deaths,Austria,2017,3874.0,8772865,0.04415889222050037
+Lung Cancer,Number of total deaths,Austria,2018,4053.0,8822267,0.04594057287089588
+Lung Cancer,Number of total deaths,Austria,2019,3991.0,8858775,0.045051375613445424
+Lung Cancer,Number of total deaths,Austria,2020,4047.0,8901064,0.04546647456978177
+Lung Cancer,Number of total deaths,Belgium,2012,6308.0,11075889,0.05695253897903816
+Lung Cancer,Number of total deaths,Belgium,2013,6483.0,11137974,0.058206277012318404
+Lung Cancer,Number of total deaths,Belgium,2014,6527.0,11180840,0.05837665148593487
+Lung Cancer,Number of total deaths,Belgium,2015,6274.0,11237274,0.055832046099436566
+Lung Cancer,Number of total deaths,Belgium,2016,6299.0,11311117,0.055688576114984935
+Lung Cancer,Number of total deaths,Belgium,2017,5805.0,11351727,0.05113759342521186
+Lung Cancer,Number of total deaths,Belgium,2018,5861.0,11398589,0.05141864488666097
+Lung Cancer,Number of total deaths,Canada,2012,19704.0,34516352,0.057085986375385214
+Lung Cancer,Number of total deaths,Canada,2013,19645.0,34883119,0.05631663842903497
+Lung Cancer,Number of total deaths,Canada,2014,20364.0,35249639,0.057770804404550076
+Lung Cancer,Number of total deaths,Canada,2015,20089.0,35575187,0.05646913395001971
+Lung Cancer,Number of total deaths,Canada,2016,20071.0,35871136,0.0559530648820266
+Lung Cancer,Number of total deaths,Canada,2017,20188.0,36314099,0.055592732728960176
+Lung Cancer,Number of total deaths,Canada,2018,19939.0,36798408,0.054184409282053723
+Lung Cancer,Number of total deaths,Canada,2019,19699.0,37325235,0.052776626858477914
+Lung Cancer,Number of total deaths,Czechia,2012,5596.0,10505445,0.053267615032014354
+Lung Cancer,Number of total deaths,Czechia,2013,5426.0,10516125,0.0515969522994449
+Lung Cancer,Number of total deaths,Czechia,2014,5259.0,10512419,0.05002654479430472
+Lung Cancer,Number of total deaths,Czechia,2015,5261.0,10538275,0.04992278147989116
+Lung Cancer,Number of total deaths,Czechia,2016,5333.0,10553843,0.050531356208349885
+Lung Cancer,Number of total deaths,Czechia,2017,5463.0,10578820,0.05164092025386574
+Lung Cancer,Number of total deaths,Czechia,2018,5275.0,10610055,0.049716990156978454
+Lung Cancer,Number of total deaths,Czechia,2019,5334.0,10649800,0.0500854476140397
+Lung Cancer,Number of total deaths,Czechia,2020,5304.0,10693939,0.04959818828216619
+Lung Cancer,Number of total deaths,Denmark,2012,3745.0,5580516,0.0671084896092046
+Lung Cancer,Number of total deaths,Denmark,2013,3681.0,5602628,0.06570131017086982
+Lung Cancer,Number of total deaths,Denmark,2014,3716.0,5627235,0.06603598392460952
+Lung Cancer,Number of total deaths,Denmark,2015,3682.0,5659715,0.06505627933562026
+Lung Cancer,Number of total deaths,Denmark,2016,3669.0,5707251,0.06428664167740301
+Lung Cancer,Number of total deaths,Denmark,2017,3689.0,5748769,0.06417025975474054
+Lung Cancer,Number of total deaths,Denmark,2018,3406.0,5781190,0.0589152060388951
+Lung Cancer,Number of total deaths,Denmark,2019,3582.0,5806081,0.0616939377869513
+Lung Cancer,Number of total deaths,Denmark,2020,3380.0,5822763,0.058048043514736906
+Lung Cancer,Number of total deaths,Finland,2012,2168.0,5401267,0.04013873041269761
+Lung Cancer,Number of total deaths,Finland,2013,2225.0,5426674,0.041001173094237835
+Lung Cancer,Number of total deaths,Finland,2014,2152.0,5451270,0.03947703929543024
+Lung Cancer,Number of total deaths,Finland,2016,2263.0,5487308,0.04124062290653267
+Lung Cancer,Number of total deaths,Finland,2017,2263.0,5503297,0.041120804492288894
+Lung Cancer,Number of total deaths,Finland,2018,2267.0,5513130,0.041120017122759665
+Lung Cancer,Number of total deaths,Finland,2019,2345.0,5517919,0.04249790546037374
+Lung Cancer,Number of total deaths,Finland,2020,2282.0,5525292,0.04130098463574414
+Lung Cancer,Number of total deaths,France,2012,30557.0,65276983,0.04681129334669159
+Lung Cancer,Number of total deaths,France,2013,30211.0,65600350,0.04605310794835698
+Lung Cancer,Number of total deaths,France,2014,31413.0,66165980,0.04747605944928194
+Lung Cancer,Number of total deaths,France,2015,31783.0,66458153,0.04782407961292574
+Lung Cancer,Number of total deaths,France,2016,31533.0,66638391,0.0473195698857735
+Lung Cancer,Number of total deaths,France,2017,31022.0,66809816,0.04643329656827674
+Lung Cancer,Number of total deaths,Germany,2012,44465.0,80327900,0.055354366291164095
+Lung Cancer,Number of total deaths,Germany,2013,44848.0,80523746,0.055695372145255134
+Lung Cancer,Number of total deaths,Germany,2014,45084.0,80767463,0.055819507417238054
+Lung Cancer,Number of total deaths,Germany,2015,45259.0,81197537,0.05573937544435616
+Lung Cancer,Number of total deaths,Germany,2016,45805.0,82175684,0.055740333113625196
+Lung Cancer,Number of total deaths,Germany,2017,45072.0,82521653,0.05461839209643559
+Lung Cancer,Number of total deaths,Germany,2018,44879.0,82792351,0.05420669839415479
+Lung Cancer,Number of total deaths,Germany,2019,44881.0,83019213,0.054060979836077216
+Lung Cancer,Number of total deaths,Germany,2020,44817.0,83166711,0.053888147626758975
+Lung Cancer,Number of total deaths,Greece,2012,6745.0,11086406,0.06084027591989685
+Lung Cancer,Number of total deaths,Greece,2013,6991.0,11003615,0.06353366598158879
+Lung Cancer,Number of total deaths,Greece,2014,7080.0,10926807,0.06479477490542296
+Lung Cancer,Number of total deaths,Greece,2015,7158.0,10858018,0.06592363357658829
+Lung Cancer,Number of total deaths,Greece,2016,7127.0,10783748,0.06609019424415333
+Lung Cancer,Number of total deaths,Greece,2017,7178.0,10768193,0.06665928071682965
+Lung Cancer,Number of total deaths,Greece,2018,7046.0,10741165,0.06559809853028047
+Lung Cancer,Number of total deaths,Greece,2019,7117.0,10724599,0.06636145556584447
+Lung Cancer,Number of total deaths,Greece,2020,7014.0,10718565,0.06543786411707164
+Lung Cancer,Number of total deaths,Hungary,2012,8896.0,9931925,0.08956974604620957
+Lung Cancer,Number of total deaths,Hungary,2013,8591.0,9908798,0.08670072797931697
+Lung Cancer,Number of total deaths,Hungary,2014,8733.0,9877365,0.08841426838028157
+Lung Cancer,Number of total deaths,Hungary,2015,8753.0,9855571,0.08881271313453071
+Lung Cancer,Number of total deaths,Hungary,2016,8883.0,9830485,0.09036176750180688
+Lung Cancer,Number of total deaths,Hungary,2017,8840.0,9797561,0.09022653699221674
+Lung Cancer,Number of total deaths,Hungary,2018,8716.0,9778371,0.08913550119953519
+Lung Cancer,Number of total deaths,Hungary,2019,8447.0,9772756,0.0864341645284094
+Lung Cancer,Number of total deaths,Iceland,2012,141.0,319575,0.044121098333724476
+Lung Cancer,Number of total deaths,Iceland,2013,133.0,321857,0.041322699211140346
+Lung Cancer,Number of total deaths,Iceland,2014,133.0,325671,0.04083876058967485
+Lung Cancer,Number of total deaths,Iceland,2015,117.0,329100,0.03555150410209663
+Lung Cancer,Number of total deaths,Iceland,2016,156.0,332529,0.046913201555353064
+Lung Cancer,Number of total deaths,Iceland,2017,124.0,338349,0.0366485492789989
+Lung Cancer,Number of total deaths,Iceland,2018,130.0,348450,0.03730807863395035
+Lung Cancer,Number of total deaths,Iceland,2019,124.0,356991,0.034734769223873994
+Lung Cancer,Number of total deaths,Iceland,2020,122.0,364134,0.03350414957131166
+Lung Cancer,Number of total deaths,Ireland,2012,1801.0,4589287,0.039243568772229766
+Lung Cancer,Number of total deaths,Ireland,2013,1831.0,4609779,0.03971990848151288
+Lung Cancer,Number of total deaths,Ireland,2014,1934.0,4637852,0.04170033886376711
+Lung Cancer,Number of total deaths,Ireland,2015,1828.0,4677627,0.03907964444364632
+Lung Cancer,Number of total deaths,Ireland,2018,1820.0,4830392,0.037678101487415516
+Lung Cancer,Number of total deaths,Italy,2012,33538.0,59394207,0.0564667863988823
+Lung Cancer,Number of total deaths,Italy,2013,33483.0,59685227,0.05609930913054917
+Lung Cancer,Number of total deaths,Italy,2014,33386.0,60782668,0.05492684197409696
+Lung Cancer,Number of total deaths,Italy,2015,33975.0,60795612,0.0558839674152799
+Lung Cancer,Number of total deaths,Italy,2016,33838.0,60665551,0.05577794883953168
+Lung Cancer,Number of total deaths,Italy,2017,33904.0,60589445,0.055956941015056334
+Lung Cancer,Number of total deaths,Japan,2012,71518.0,127798704,0.05596144386565923
+Lung Cancer,Number of total deaths,Japan,2013,72734.0,127515133,0.05703950447983299
+Lung Cancer,Number of total deaths,Japan,2014,73396.0,127297686,0.05765697893361549
+Lung Cancer,Number of total deaths,Japan,2015,74378.0,127082819,0.058527187691673734
+Lung Cancer,Number of total deaths,Japan,2016,73838.0,127094745,0.05809681588330029
+Lung Cancer,Number of total deaths,Japan,2017,74120.0,126932772,0.058393115372915666
+Lung Cancer,Number of total deaths,Japan,2018,74328.0,126706210,0.05866168674763455
+Lung Cancer,Number of total deaths,Japan,2019,75394.0,126443180,0.059626782559565494
+Lung Cancer,Number of total deaths,Japan,2020,75585.0,126166948,0.059908717138818325
+Lung Cancer,Number of total deaths,Korea,2012,16654.0,50199853,0.03317539595185667
+Lung Cancer,Number of total deaths,Korea,2013,17177.0,50428893,0.03406182245563074
+Lung Cancer,Number of total deaths,Korea,2014,17440.0,50746659,0.034366794472124755
+Lung Cancer,Number of total deaths,Korea,2015,17399.0,51014947,0.03410569063219844
+Lung Cancer,Number of total deaths,Korea,2016,17963.0,51217803,0.0350717893932311
+Lung Cancer,Number of total deaths,Korea,2017,17980.0,51361911,0.03500648564263896
+Lung Cancer,Number of total deaths,Korea,2018,17852.0,51585058,0.034606920476855915
+Lung Cancer,Number of total deaths,Korea,2019,18574.0,51764822,0.03588151042033912
+Lung Cancer,Number of total deaths,Korea,2020,18673.0,51836239,0.036023061009499556
+Lung Cancer,Number of total deaths,Luxembourg,2012,232.0,524853,0.0442028529893132
+Lung Cancer,Number of total deaths,Luxembourg,2013,196.0,537039,0.03649641832343647
+Lung Cancer,Number of total deaths,Luxembourg,2014,253.0,549680,0.04602677921699898
+Lung Cancer,Number of total deaths,Luxembourg,2015,224.0,562958,0.039789824462926185
+Lung Cancer,Number of total deaths,Luxembourg,2016,238.0,576249,0.04130159011121928
+Lung Cancer,Number of total deaths,Luxembourg,2017,227.0,590667,0.038431129553538626
+Lung Cancer,Number of total deaths,Luxembourg,2018,223.0,602005,0.03704288170364033
+Lung Cancer,Number of total deaths,Luxembourg,2019,206.0,613894,0.03355628170335596
+Lung Cancer,Number of total deaths,Luxembourg,2020,197.0,626108,0.03146422023037559
+Lung Cancer,Number of total deaths,Mexico,2012,6267.0,115367452,0.00543220803732408
+Lung Cancer,Number of total deaths,Mexico,2013,6434.0,116935670,0.0055021705524071485
+Lung Cancer,Number of total deaths,Mexico,2014,6606.0,118453929,0.005576851739548461
+Lung Cancer,Number of total deaths,Mexico,2015,6769.0,119936411,0.00564382404272544
+Lung Cancer,Number of total deaths,Mexico,2016,6882.0,121347800,0.005671301828298494
+Lung Cancer,Number of total deaths,Mexico,2017,6901.0,122715165,0.005623591835613798
+Lung Cancer,Number of total deaths,Mexico,2018,6827.0,124041731,0.005503792913047948
+Lung Cancer,Number of total deaths,Mexico,2019,6774.0,125327797,0.005405025989565587
+Lung Cancer,Number of total deaths,Mexico,2020,6741.0,126577691,0.0053255830049862415
+Lung Cancer,Number of total deaths,Netherlands,2012,10322.0,16730348,0.06169626597127567
+Lung Cancer,Number of total deaths,Netherlands,2013,10277.0,16779575,0.06124708164539328
+Lung Cancer,Number of total deaths,Netherlands,2014,10357.0,16829289,0.06154151848007364
+Lung Cancer,Number of total deaths,Netherlands,2015,10420.0,16900726,0.06165415615873543
+Lung Cancer,Number of total deaths,Netherlands,2016,10691.0,16979120,0.06296557183175572
+Lung Cancer,Number of total deaths,Netherlands,2017,10396.0,17081507,0.06086114064760211
+Lung Cancer,Number of total deaths,Netherlands,2018,10374.0,17181084,0.060380357840052475
+Lung Cancer,Number of total deaths,Netherlands,2019,10233.0,17282163,0.0592113383029659
+Lung Cancer,Number of total deaths,Netherlands,2020,10080.0,17407585,0.057905792216438975
+Lung Cancer,Number of total deaths,New Zealand,2012,1628.0,4408060,0.036932346655898514
+Lung Cancer,Number of total deaths,New Zealand,2013,1656.0,4442080,0.03727983287108742
+Lung Cancer,Number of total deaths,New Zealand,2014,1679.0,4516510,0.03717472118959108
+Lung Cancer,Number of total deaths,New Zealand,2015,1805.0,4609380,0.039159279556035737
+Lung Cancer,Number of total deaths,New Zealand,2016,1758.0,4714080,0.03729253640158844
+Lung Cancer,Number of total deaths,Norway,2012,2185.0,4985870,0.04382384618933105
+Lung Cancer,Number of total deaths,Norway,2013,2163.0,5051275,0.042820871958069995
+Lung Cancer,Number of total deaths,Norway,2014,2158.0,5107970,0.04224770309927427
+Lung Cancer,Number of total deaths,Norway,2015,2175.0,5166493,0.042098189235909154
+Lung Cancer,Number of total deaths,Norway,2016,2234.0,5210721,0.042873145578126326
+Lung Cancer,Number of total deaths,Poland,2012,22650.0,38063792,0.059505369302144145
+Lung Cancer,Number of total deaths,Poland,2013,22655.0,38062535,0.05952047072009261
+Lung Cancer,Number of total deaths,Poland,2014,23210.0,38017856,0.06105026017248316
+Lung Cancer,Number of total deaths,Poland,2015,23745.0,38005614,0.06247761186018465
+Lung Cancer,Number of total deaths,Poland,2016,23833.0,37967209,0.06277258884107073
+Lung Cancer,Number of total deaths,Poland,2017,23351.0,37972964,0.06149375118571202
+Lung Cancer,Number of total deaths,Poland,2018,23722.0,37976687,0.06246463784479147
+Lung Cancer,Number of total deaths,Poland,2019,23136.0,37972812,0.060927802765831506
+Lung Cancer,Number of total deaths,Poland,2020,22238.0,37958138,0.0585855923702053
+Lung Cancer,Number of total deaths,Portugal,2012,3675.0,10542398,0.03485924170193537
+Lung Cancer,Number of total deaths,Portugal,2013,4010.0,10487289,0.03823676452513133
+Lung Cancer,Number of total deaths,Portugal,2014,3937.0,10427301,0.03775665438256746
+Lung Cancer,Number of total deaths,Portugal,2015,4023.0,10374822,0.03877656888956745
+Lung Cancer,Number of total deaths,Portugal,2016,4085.0,10341330,0.039501688854334985
+Lung Cancer,Number of total deaths,Portugal,2017,4240.0,10309573,0.04112682455422742
+Lung Cancer,Number of total deaths,Portugal,2018,4317.0,10291027,0.04194916600646369
+Lung Cancer,Number of total deaths,Portugal,2019,4405.0,10276617,0.042864300576736486
+Lung Cancer,Number of total deaths,Slovak Republic,2012,2196.0,5404322,0.04063414430154236
+Lung Cancer,Number of total deaths,Slovak Republic,2013,2231.0,5410836,0.041232075782744106
+Lung Cancer,Number of total deaths,Slovak Republic,2014,2174.0,5415949,0.04014070294975082
+Lung Cancer,Number of total deaths,Slovak Republic,2016,2301.0,5426252,0.042404960182461114
+Lung Cancer,Number of total deaths,Slovak Republic,2017,2262.0,5435343,0.041616508838540636
+Lung Cancer,Number of total deaths,Slovak Republic,2018,2288.0,5443120,0.04203471538382399
+Lung Cancer,Number of total deaths,Slovak Republic,2019,2096.0,5450421,0.038455744978231954
+Lung Cancer,Number of total deaths,Spain,2012,21511.0,46818219,0.045945788753732814
+Lung Cancer,Number of total deaths,Spain,2013,21689.0,46727890,0.04641553470529057
+Lung Cancer,Number of total deaths,Spain,2014,21270.0,46512199,0.045729938504950066
+Lung Cancer,Number of total deaths,Spain,2015,21625.0,46449565,0.04655587194411832
+Lung Cancer,Number of total deaths,Spain,2016,22187.0,46440099,0.047775522614626635
+Lung Cancer,Number of total deaths,Spain,2017,22121.0,46528024,0.04754339019426228
+Lung Cancer,Number of total deaths,Spain,2018,22153.0,46658447,0.04747907704686356
+Lung Cancer,Number of total deaths,Spain,2019,22007.0,46937060,0.046886191849255146
+Lung Cancer,Number of total deaths,Spain,2020,21918.0,47332614,0.04630633752870695
+Lung Cancer,Number of total deaths,Sweden,2012,3582.0,9482855,0.03777343426636809
+Lung Cancer,Number of total deaths,Sweden,2013,3631.0,9555893,0.037997495367518244
+Lung Cancer,Number of total deaths,Sweden,2014,3650.0,9644864,0.03784397581966941
+Lung Cancer,Number of total deaths,Sweden,2015,3626.0,9747355,0.03719983523735413
+Lung Cancer,Number of total deaths,Sweden,2016,3682.0,9851017,0.03737685154740876
+Lung Cancer,Number of total deaths,Sweden,2017,3806.0,9995153,0.038078456627927554
+Lung Cancer,Number of total deaths,Sweden,2018,3597.0,10120242,0.035542628328453015
+Lung Cancer,Number of total deaths,Switzerland,2012,3092.0,7954662,0.03887028763761427
+Lung Cancer,Number of total deaths,Switzerland,2013,3169.0,8039060,0.03942003169524795
+Lung Cancer,Number of total deaths,Switzerland,2014,3199.0,8139631,0.03930153590500601
+Lung Cancer,Number of total deaths,Switzerland,2015,3242.0,8237666,0.03935580782226422
+Lung Cancer,Number of total deaths,Switzerland,2016,3249.0,8327126,0.03901706302990972
+Lung Cancer,Number of total deaths,Switzerland,2017,3315.0,8419550,0.03937265055733383
+Lung Cancer,Number of total deaths,Switzerland,2018,3321.0,8484130,0.039143671773063354
+Lung Cancer,Number of total deaths,Switzerland,2019,3236.0,8544527,0.03787219585121564
+Lung Cancer,Number of total deaths,Switzerland,2020,3198.0,8606033,0.0371599783547193
+Lung Cancer,Number of total deaths,Türkiye,2012,20299.0,74724269,0.02716520385097377
+Lung Cancer,Number of total deaths,Türkiye,2013,22186.0,75627384,0.02933593471909593
+Lung Cancer,Number of total deaths,Türkiye,2014,22576.0,76667864,0.029446496644278494
+Lung Cancer,Number of total deaths,Türkiye,2015,22997.0,77695904,0.0295987289111148
+Lung Cancer,Number of total deaths,Türkiye,2016,23747.0,78741053,0.030158347006103665
+Lung Cancer,Number of total deaths,Türkiye,2019,23160.0,82003882,0.028242565394648023
+Lung Cancer,Number of total deaths,United Kingdom,2012,35403.0,63495088,0.0557570689562632
+Lung Cancer,Number of total deaths,United Kingdom,2013,35522.0,63905342,0.05558533745113202
+Lung Cancer,Number of total deaths,United Kingdom,2014,35960.0,64351203,0.05588085120957257
+Lung Cancer,Number of total deaths,United Kingdom,2015,35557.0,64853393,0.054826738209364
+Lung Cancer,Number of total deaths,United Kingdom,2016,35685.0,65379044,0.05458170969890597
+Lung Cancer,Number of total deaths,United Kingdom,2017,35170.0,65844142,0.05341401517541226
+Lung Cancer,Number of total deaths,United Kingdom,2018,34599.0,66273576,0.05220632730003886
+Lung Cancer,Number of total deaths,United Kingdom,2019,34552.0,66647112,0.0518432066493744
+Lung Cancer,Number of total deaths,United Kingdom,2020,33649.0,67025542,0.050203249382153446
+Lung Cancer,Number of total deaths,United States,2012,157499.0,312238050,0.05044196247062137
+Lung Cancer,Number of total deaths,United States,2013,156252.0,314549418,0.049674865397461965
+Lung Cancer,Number of total deaths,United States,2014,155610.0,316775507,0.04912311607475385
+Lung Cancer,Number of total deaths,United States,2015,153819.0,319528204,0.048139412444480174
+Lung Cancer,Number of total deaths,United States,2016,148945.0,321553940,0.046320377850136124
+Lung Cancer,Number of total deaths,United States,2017,145932.0,324076293,0.045030137394221556
+Lung Cancer,Number of total deaths,United States,2018,142161.0,325732103,0.04364353365563111
+Lung Cancer,Number of total deaths,United States,2019,139682.0,327170529,0.042693943255506364
+Lung Cancer,Number of total deaths,United States,2020,136166.0,328744045,0.04142006587526171
+Lung Cancer,Number of total deaths,Brazil,2012,23500.0,197502313,0.011898594828102089
+Lung Cancer,Number of total deaths,Brazil,2013,24486.0,199217335,0.012291099065249517
+Lung Cancer,Number of total deaths,Brazil,2014,25426.0,200929486,0.012654190535280621
+Lung Cancer,Number of total deaths,Brazil,2015,26492.0,202633804,0.013073830465128118
+Lung Cancer,Number of total deaths,Brazil,2016,27265.0,204325470,0.013343906660290564
+Lung Cancer,Number of total deaths,Brazil,2017,27929.0,205999691,0.013557787326972251
+Lung Cancer,Number of total deaths,Brazil,2018,28717.0,207651621,0.013829412870318986
+Lung Cancer,Number of total deaths,Brazil,2019,29354.0,209276497,0.014026419794287745
+Lung Cancer,Number of total deaths,Brazil,2020,28618.0,210869401,0.013571433249340905
+Lung Cancer,Number of total deaths,Chile,2012,2848.0,17443491,0.01632700701940913
+Lung Cancer,Number of total deaths,Chile,2013,3034.0,17611902,0.017226986613938688
+Lung Cancer,Number of total deaths,Chile,2014,3055.0,17787617,0.01717486946115379
+Lung Cancer,Number of total deaths,Chile,2015,3107.0,17971423,0.017288558618869524
+Lung Cancer,Number of total deaths,Chile,2016,3167.0,18167147,0.017432566599477617
+Lung Cancer,Number of total deaths,Chile,2017,3276.0,18419192,0.017785796467076297
+Lung Cancer,Number of total deaths,Chile,2018,3307.0,18751405,0.01763601180818184
+Lung Cancer,Number of total deaths,Chile,2019,3368.0,19107216,0.0176268484116158
+Lung Cancer,Number of total deaths,Chile,2020,3396.0,19458310,0.017452697587817236
+Lung Cancer,Number of total deaths,Estonia,2012,688.0,1325217,0.05191602582822285
+Lung Cancer,Number of total deaths,Estonia,2013,658.0,1320174,0.04984191477790049
+Lung Cancer,Number of total deaths,Estonia,2014,715.0,1315819,0.05433878063776249
+Lung Cancer,Number of total deaths,Estonia,2015,672.0,1313271,0.051169941314473555
+Lung Cancer,Number of total deaths,Estonia,2016,666.0,1315944,0.05061005635498167
+Lung Cancer,Number of total deaths,Estonia,2017,639.0,1315635,0.048569702083024545
+Lung Cancer,Number of total deaths,Estonia,2018,671.0,1319133,0.050866743535337225
+Lung Cancer,Number of total deaths,Estonia,2019,645.0,1324820,0.04868585921106263
+Lung Cancer,Number of total deaths,Estonia,2020,605.0,1328889,0.04552675204625819
+Lung Cancer,Number of total deaths,Israel,2012,1761.0,7836510,0.0224717380568646
+Lung Cancer,Number of total deaths,Israel,2013,1846.0,7984456,0.023119922008462444
+Lung Cancer,Number of total deaths,Israel,2014,1949.0,8134460,0.023959795733214006
+Lung Cancer,Number of total deaths,Israel,2015,1924.0,8296899,0.023189386781736165
+Lung Cancer,Number of total deaths,Israel,2016,1897.0,8463427,0.022414088288349388
+Lung Cancer,Number of total deaths,Israel,2017,1842.0,8628589,0.02134763864636501
+Lung Cancer,Number of total deaths,Israel,2018,1908.0,8797940,0.021686894886757582
+Lung Cancer,Number of total deaths,Israel,2019,1904.0,8967596,0.021232000192693782
+Lung Cancer,Number of total deaths,Israel,2020,1880.0,9140470,0.020567870142344978
+Lung Cancer,Number of total deaths,Russia,2012,49908.0,143201721,0.0348515364560458
+Lung Cancer,Number of total deaths,Russia,2013,50068.0,143506995,0.03488889165298179
+Lung Cancer,Number of total deaths,Russia,2014,49730.0,143819667,0.03457802471479787
+Lung Cancer,Number of total deaths,Russia,2015,51280.0,144096870,0.03558717132440142
+Lung Cancer,Number of total deaths,Russia,2019,50046.0,144406261,0.03465639207984202
+Lung Cancer,Number of total deaths,Slovenia,2012,1122.0,2055496,0.05458536528409688
+Lung Cancer,Number of total deaths,Slovenia,2013,1072.0,2058821,0.05206863539860921
+Lung Cancer,Number of total deaths,Slovenia,2014,1169.0,2061085,0.056717699658189735
+Lung Cancer,Number of total deaths,Slovenia,2015,1192.0,2062874,0.05778346132628556
+Lung Cancer,Number of total deaths,Slovenia,2016,1205.0,2064188,0.0583764657095187
+Lung Cancer,Number of total deaths,Slovenia,2017,1236.0,2065895,0.059828790911445155
+Lung Cancer,Number of total deaths,Slovenia,2018,1199.0,2066880,0.058010140888682456
+Lung Cancer,Number of total deaths,Slovenia,2019,1218.0,2080908,0.05853214077700696
+Lung Cancer,Number of total deaths,Slovenia,2020,1188.0,2095861,0.056683148357643945
+Lung Cancer,Number of total deaths,South Africa,2012,5129.0,53145033,0.00965094894192652
+Lung Cancer,Number of total deaths,South Africa,2013,5142.0,53873616,0.009544560736372327
+Lung Cancer,Number of total deaths,South Africa,2014,5242.0,54729551,0.009578006587337068
+Lung Cancer,Number of total deaths,South Africa,2015,5598.0,55876504,0.010018522275480944
+Lung Cancer,Number of total deaths,South Africa,2016,6103.0,56422274,0.01081665017613434
+Lung Cancer,Number of total deaths,South Africa,2017,6031.0,56641209,0.01064772469810805
+Lung Cancer,Number of total deaths,South Africa,2018,6032.0,57339635,0.010519773974843057
+Lung Cancer,Number of total deaths,Colombia,2012,4058.0,45001571,0.009017462968126156
+Lung Cancer,Number of total deaths,Colombia,2013,4195.0,45434942,0.009232981963529303
+Lung Cancer,Number of total deaths,Colombia,2014,4473.0,45866010,0.009752319855160717
+Lung Cancer,Number of total deaths,Colombia,2015,4635.0,46313898,0.01000779506833996
+Lung Cancer,Number of total deaths,Colombia,2016,4657.0,46830116,0.009944455401306288
+Lung Cancer,Number of total deaths,Colombia,2017,4797.0,47419200,0.01011615548132402
+Lung Cancer,Number of total deaths,Colombia,2018,4733.0,48258494,0.009807599880758815
+Lung Cancer,Number of total deaths,Colombia,2019,4525.0,49395678,0.009160720498663871
+Lung Cancer,Number of total deaths,Colombia,2020,4642.0,50407647,0.00920892022593318
+Lung Cancer,Number of total deaths,Latvia,2012,981.0,2044813,0.04797504710699707
+Lung Cancer,Number of total deaths,Latvia,2013,995.0,2023825,0.04916432991983003
+Lung Cancer,Number of total deaths,Latvia,2014,946.0,2001468,0.04726530726446788
+Lung Cancer,Number of total deaths,Latvia,2015,891.0,1986096,0.04486187978828818
+Lung Cancer,Number of total deaths,Latvia,2016,936.0,1968957,0.04753785887655241
+Lung Cancer,Number of total deaths,Latvia,2017,989.0,1950116,0.05071493182969628
+Lung Cancer,Number of total deaths,Latvia,2018,931.0,1934379,0.04812914118691322
+Lung Cancer,Number of total deaths,Latvia,2019,914.0,1919968,0.04760496008266804
+Lung Cancer,Number of total deaths,Latvia,2020,943.0,1907675,0.04943190008780322
+Lung Cancer,Number of total deaths,Costa Rica,2012,288.0,4652454,0.0061902815159483576
+Lung Cancer,Number of total deaths,Costa Rica,2013,284.0,4713168,0.0060256710560709905
+Lung Cancer,Number of total deaths,Costa Rica,2014,284.0,4773124,0.005949981605338558
+Lung Cancer,Number of total deaths,Costa Rica,2015,301.0,4832234,0.006229002982885349
+Lung Cancer,Number of total deaths,Costa Rica,2016,303.0,4890380,0.006195837542276878
+Lung Cancer,Number of total deaths,Costa Rica,2017,300.0,4947490,0.006063680775504347
+Lung Cancer,Number of total deaths,Costa Rica,2018,363.0,5003403,0.007255062204663505
+Lung Cancer,Number of total deaths,Costa Rica,2019,348.0,5058010,0.0068801761957766
+Lung Cancer,Number of total deaths,Costa Rica,2020,380.0,5111233,0.007434605309521206
+Lung Cancer,Number of total deaths,Lithuania,2012,1357.0,3003641,0.04517850169178008
+Lung Cancer,Number of total deaths,Lithuania,2013,1309.0,2971905,0.04404582246067758
+Lung Cancer,Number of total deaths,Lithuania,2014,1338.0,2943472,0.04545652209363636
+Lung Cancer,Number of total deaths,Lithuania,2015,1344.0,2921262,0.046007513191216674
+Lung Cancer,Number of total deaths,Lithuania,2016,1293.0,2888558,0.044762819372157314
+Lung Cancer,Number of total deaths,Lithuania,2017,1231.0,2847904,0.043224771621515334
+Lung Cancer,Number of total deaths,Lithuania,2018,1200.0,2808901,0.042721334785384035
+Lung Cancer,Number of total deaths,Lithuania,2019,1280.0,2794184,0.04580943846217715
+Lung Cancer,Number of total deaths,Lithuania,2020,1229.0,2794090,0.043985698384805066
+Lung Cancer,Number of total deaths,Argentina,2012,9171.0,41733271,0.021975272439105
+Lung Cancer,Number of total deaths,Argentina,2013,9196.0,42202935,0.021789953708195888
+Lung Cancer,Number of total deaths,Argentina,2014,9284.0,42669500,0.02175793013745181
+Lung Cancer,Number of total deaths,Argentina,2015,9726.0,43131966,0.022549401063702963
+Lung Cancer,Number of total deaths,Argentina,2016,9480.0,43590368,0.02174792376150621
+Lung Cancer,Number of total deaths,Argentina,2017,9485.0,44044811,0.021534886368339733
+Lung Cancer,Number of total deaths,Argentina,2018,9260.0,44494502,0.020811560043980264
+Lung Cancer,Number of total deaths,Argentina,2019,9264.0,44938712,0.020614743030463355
+Lung Cancer,Number of total deaths,Argentina,2020,8657.0,45376763,0.0190780466204696
+Lung Cancer,Number of total deaths,Bulgaria,2012,3594.0,7305888,0.049193198691247386
+Lung Cancer,Number of total deaths,Bulgaria,2013,3624.0,7265115,0.04988221108681694
+Lung Cancer,Number of total deaths,Bulgaria,2014,3485.0,7223938,0.048242385247492435
+Lung Cancer,Number of total deaths,Bulgaria,2015,3452.0,7177991,0.04809145065799052
+Lung Cancer,Number of total deaths,Bulgaria,2016,3354.0,7127822,0.04705504710976228
+Lung Cancer,Number of total deaths,Bulgaria,2017,3362.0,7075947,0.04751307492834528
+Lung Cancer,Number of total deaths,Bulgaria,2018,3340.0,7025037,0.04754423357485519
+Lung Cancer,Number of total deaths,Bulgaria,2019,3480.0,6975761,0.04988703024659245
+Lung Cancer,Number of total deaths,Bulgaria,2020,3464.0,6934015,0.04995662686048415
+Lung Cancer,Number of total deaths,Peru,2012,1849.0,29749589,0.006215211914356194
+Lung Cancer,Number of total deaths,Peru,2013,1778.0,30038809,0.005919009638497985
+Lung Cancer,Number of total deaths,Peru,2014,1804.0,30353951,0.005943213125698199
+Lung Cancer,Number of total deaths,Peru,2015,1745.0,30711863,0.005681843527369212
+Lung Cancer,Number of total deaths,Peru,2016,1503.0,31132779,0.004827709084370527
+Lung Cancer,Number of total deaths,Peru,2017,1705.0,31605486,0.005394633070980146
+Lung Cancer,Number of total deaths,Peru,2018,2026.0,32203944,0.006291154897052361
+Lung Cancer,Number of total deaths,Peru,2019,2236.0,32824861,0.006811910033678436
+Lung Cancer,Number of total deaths,Peru,2020,2099.0,33304756,0.006302403176291099
+Lung Cancer,Number of total deaths,Romania,2012,9920.0,20058035,0.04945648963121262
+Lung Cancer,Number of total deaths,Romania,2013,9973.0,19983693,0.04990569060483465
+Lung Cancer,Number of total deaths,Romania,2014,10188.0,19908979,0.05117289038277654
+Lung Cancer,Number of total deaths,Romania,2015,10361.0,19815616,0.052287044722707586
+Lung Cancer,Number of total deaths,Romania,2016,10237.0,19702267,0.05195848782274649
+Lung Cancer,Number of total deaths,Romania,2017,10256.0,19588715,0.05235667576969699
+Lung Cancer,Number of total deaths,Romania,2018,10082.0,19473970,0.05177167264815546
+Lung Cancer,Number of total deaths,Romania,2019,9803.0,19371648,0.05060488400367382
+Lung Cancer,Number of total deaths,Croatia,2012,2790.0,4331595,0.06441045388592423
+Lung Cancer,Number of total deaths,Croatia,2013,2802.0,4308854,0.06502889167282067
+Lung Cancer,Number of total deaths,Croatia,2014,2827.0,4283972,0.06599016053326212
+Lung Cancer,Number of total deaths,Croatia,2015,2821.0,4254815,0.06630135505303991
+Lung Cancer,Number of total deaths,Croatia,2016,2866.0,4223751,0.06785437872639746
+Lung Cancer,Number of total deaths,Croatia,2017,2994.0,4192467,0.07141380003706647
+Lung Cancer,Number of total deaths,Croatia,2019,2874.0,4129752,0.06959255664746938
+Lung Cancer,Number of total deaths,Croatia,2020,2819.0,4096869,0.06880864386925722
