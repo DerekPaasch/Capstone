@@ -16,6 +16,10 @@
 * [Conclusion](#conclusion)
 
 
+## Tableau Dashboard
+(link here)
+
+
 ## Motivation:
 Being a respiratory therapist, I want to further explore any and all correlations between tobacco consumption and alcohol to cancers. With my healthcare background I believe I can help provide a great insight into the data question.  The insights gained from this analysis can then be used to develop evidence-based public health strategies aimed at reducing cancer prevalence and improving global health outcomes.
 
