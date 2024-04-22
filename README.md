@@ -17,7 +17,7 @@
 
 
 ## Tableau Dashboard
-(link here)
+https://public.tableau.com/views/Capstonepresentation_17138037251140/Capstone?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 
 ## Motivation:
