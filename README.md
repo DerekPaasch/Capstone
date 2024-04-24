@@ -67,4 +67,26 @@ https://data-explorer.oecd.org/vis?tm=malignant%20neoplasms&pg=0&hc[Cancer%20sit
 
 
 ## Conclusion
-The data analysis shows that the United States and Japan are the top2 in the world leading in Lung cancer and Liver cancer deaths. The data shows that there is a strong correlation between smoking and lung cancer, as well as alcohol and liver cancer. There weren't any regions more heavily affected than others and there weren't and notable outlies or clusters of countries with similar trends. This information can target public health interventions to reduce cancer here in the US.
+Was there any correlation between tobacco consumption and lung cancer? 
+
+- Yes, a global positive correlation of 0.438, and an increased correlation in the US of 0.925
+
+Was there any correlation between alcohol consumption and liver cancer?
+
+- Yes, a global positive correlation of 0.23, and an increased correlation in the US of 0.60.
+
+Are there any regional patterns, notable outliers or clusters? 
+Yes, central Europe has clusters of countries in the top 10 for both cancers. 
+France
+Austria
+Bulgaria
+Latvia
+Russia
+
+How can this information enhance targeted public health interventions?
+Identifies High-Risk Populations
+Customized Prevention Programs
+Targets Healthcare Resource Allocation
+Creates Education and Awareness Campaigns
+Helps Research and Surveillance
+
